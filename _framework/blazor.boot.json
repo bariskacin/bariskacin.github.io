@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "bariskacin.github.io",
   "resources": {
-    "hash": "sha256-qxzEBJDg//5apugZlvAaGoRCN1yug6d7a39YWljgIGk=",
+    "hash": "sha256-0T6dRqNcoYAzcBUmBhV3JItig6ZT4qjF5KX8D8onsBo=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.iupm033hr2.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "bariskacin.github.io.wasm": "sha256-e3jR0VcJPb4eav7OrELHLWhlLOQXGYy5Rv5/qZbzvdw=",
+      "bariskacin.github.io.wasm": "sha256-T04TeKjtI4ykOUXoIGkGvJ+hURnIdPilRcr0ApBlK/k=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-VS0AiSyRt/aiOantX+eu1XIT896oY37PcKt0QzpEb1A=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-ivj7kxN8rrhTm1UV0H7dhsOewu6rhATFU2ZAG/YKLvA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ws5szf6fWPAXna+XyWsAhavx+WDFcA/91DQ7iPRPCMs=",
